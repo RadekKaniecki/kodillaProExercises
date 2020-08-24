@@ -31,6 +31,17 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/bean-lifecycle-exercise" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../gradle-6.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/bean-lifecycle-exercise" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/integrationexercise" />
         <option name="modules">
           <set>

@@ -1,0 +1,1 @@
+2020-08-24 16:13:45,896 INFO  [main] com.kodilla.beanlifecycleexercise.BeanMonitor.postProcessAfterInitialization:20 - Initialization of bean: libraryManger is finished  
