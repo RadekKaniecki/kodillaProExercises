@@ -4,5 +4,17 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="batchexercise.main" target="1.8" />
+      <module name="batchexercise.test" target="1.8" />
+      <module name="bean-lifecycle-exercise.main" target="1.8" />
+      <module name="bean-lifecycle-exercise.test" target="1.8" />
+      <module name="com.example.securityexercise.main" target="1.8" />
+      <module name="com.example.securityexercise.test" target="1.8" />
+      <module name="integrationexercise.main" target="1.8" />
+      <module name="integrationexercise.test" target="1.8" />
+      <module name="securityexercise.main" target="1.8" />
+      <module name="securityexercise.test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

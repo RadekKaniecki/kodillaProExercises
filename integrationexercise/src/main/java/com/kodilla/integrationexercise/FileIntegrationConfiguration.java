@@ -28,6 +28,11 @@ public class FileIntegrationConfiguration {
     }
 
     @Bean
+    CustomFileNameGenerator fileNameGenerator() {
+        return new CustomFileNameGenerator();
+    }
+
+    @Bean
     FileReadingMessageSource fileReadingMessageSource() {
         FileReadingMessageSource messageSource = new FileReadingMessageSource();
         messageSource.setDirectory(new File(INPUT_DIRECTORY));
@@ -39,6 +44,7 @@ public class FileIntegrationConfiguration {
     FileWritingMessageHandler fileWritingMessageHandler() {
         File outputDirectory = new File(OUTPUT_DIRECTORY);
         FileWritingMessageHandler writingMessageHandler = new FileWritingMessageHandler(outputDirectory);
+        writingMessageHandler.setFileNameGenerator(fileNameGenerator());
         writingMessageHandler.setExpectReply(false);
         writingMessageHandler.setFileExistsMode(FileExistsMode.APPEND);
 
