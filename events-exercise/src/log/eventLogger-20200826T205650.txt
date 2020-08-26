@@ -1,0 +1,7 @@
+2020-08-26 20:56:50,684 INFO  [main] org.springframework.boot.StartupInfoLogger.logStarting:55 - Starting EventsExerciseApplication on Radek-PC with PID 7864 (C:\gitRepositories\kodilla\kodillaProExercises\events-exercise\out\production\classes started by Radek in C:\gitRepositories\kodilla\kodillaProExercises)  
+2020-08-26 20:56:50,687 INFO  [main] org.springframework.boot.SpringApplication.logStartupProfileInfo:651 - No active profile set, falling back to default profiles: default  
+2020-08-26 20:56:52,142 INFO  [main] org.springframework.boot.StartupInfoLogger.logStarted:61 - Started EventsExerciseApplication in 1.711 seconds (JVM running for 2.237)  
+2020-08-26 20:58:07,923 INFO  [http-nio-8080-exec-2] com.kodilla.eventsexercise.event.BasicCalculatorListener.onApplicationEvent:15 - add operator was called with parameters: a = 5, b = 5  
+2020-08-26 20:58:49,559 INFO  [http-nio-8080-exec-3] com.kodilla.eventsexercise.event.BasicCalculatorListener.onApplicationEvent:15 - multiply operator was called with parameters: a = 5, b = 5  
+2020-08-26 20:59:03,942 INFO  [http-nio-8080-exec-4] com.kodilla.eventsexercise.event.BasicCalculatorListener.onApplicationEvent:15 - divide operator was called with parameters: a = 5, b = 5  
+2020-08-26 20:59:37,412 INFO  [http-nio-8080-exec-5] com.kodilla.eventsexercise.event.BasicCalculatorListener.onApplicationEvent:15 - divide operator was called with parameters: a = 5, b = 5  

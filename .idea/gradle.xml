@@ -6,7 +6,6 @@
       <GradleProjectSettings>
         <option name="createEmptyContentRootDirectories" value="true" />
         <option name="delegatedBuild" value="false" />
-        <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
@@ -14,12 +13,12 @@
             <option value="$PROJECT_DIR$" />
           </set>
         </option>
+        <option name="testRunner" value="PLATFORM" />
         <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="createEmptyContentRootDirectories" value="true" />
         <option name="delegatedBuild" value="false" />
-        <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/batchexercise" />
         <option name="modules">
@@ -27,17 +26,30 @@
             <option value="$PROJECT_DIR$/batchexercise" />
           </set>
         </option>
+        <option name="testRunner" value="PLATFORM" />
         <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/bean-lifecycle-exercise" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../gradle-6.6" />
+        <option name="gradleHome" value="C:/../gradle-6.6" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/bean-lifecycle-exercise" />
           </set>
         </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/events-exercise" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/events-exercise" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
         <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
@@ -53,7 +65,6 @@
       <GradleProjectSettings>
         <option name="createEmptyContentRootDirectories" value="true" />
         <option name="delegatedBuild" value="false" />
-        <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/securityexercise" />
         <option name="modules">
@@ -61,6 +72,7 @@
             <option value="$PROJECT_DIR$/securityexercise" />
           </set>
         </option>
+        <option name="testRunner" value="PLATFORM" />
         <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
     </option>

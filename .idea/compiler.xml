@@ -11,6 +11,8 @@
       <module name="bean-lifecycle-exercise.test" target="1.8" />
       <module name="com.example.securityexercise.main" target="1.8" />
       <module name="com.example.securityexercise.test" target="1.8" />
+      <module name="events-exercise.main" target="1.8" />
+      <module name="events-exercise.test" target="1.8" />
       <module name="integrationexercise.main" target="1.8" />
       <module name="integrationexercise.test" target="1.8" />
       <module name="securityexercise.main" target="1.8" />
