@@ -15,6 +15,8 @@
       <module name="events-exercise.test" target="1.8" />
       <module name="integrationexercise.main" target="1.8" />
       <module name="integrationexercise.test" target="1.8" />
+      <module name="kodillaProExercises.reflection-exercise.main" target="1.8" />
+      <module name="kodillaProExercises.reflection-exercise.test" target="1.8" />
       <module name="securityexercise.main" target="1.8" />
       <module name="securityexercise.test" target="1.8" />
     </bytecodeTargetLevel>
